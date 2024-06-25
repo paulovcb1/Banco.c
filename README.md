@@ -1,3 +1,3 @@
-Projeto desenvolvido com fins de aprendizado de logica de programação.
+## Projeto desenvolvido com fins de aprendizado.
 
-Codigo funciona utilizando a linguagem C com as funcionalidades seguintes: manipulação de arquivos e para armazenamento de contas, funcoes para exportacao de extrato em execel, manipulação de algoritmos e strings e etc.
+Codigo feito todo em usando a linguagem C como e arquivos nativos, com opções de exportar os dados para excel, alterar dados de funcionarios/clientes entre outras funções.
